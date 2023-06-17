@@ -1,9 +1,1 @@
 hello git
-second
-third - my branch
-fourth - my branch
-<<<<<<< HEAD
-some hot fix
-=======
-기능 1 추가
->>>>>>> 1dd4bf5 (hotfix 버그)
